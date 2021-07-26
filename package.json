@@ -1,0 +1,24 @@
+{
+  "name": "automatic-tribble",
+  "version": "1.0.0",
+  "description": "Usage of a JSON webtoken with Express routing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBenAnderson/automatic-tribble.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JBenAnderson/automatic-tribble/issues"
+  },
+  "homepage": "https://github.com/JBenAnderson/automatic-tribble#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
